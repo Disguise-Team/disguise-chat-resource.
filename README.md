@@ -39,3 +39,7 @@ https://disguise.chat
 ---
 
 This repository is maintained for educational purposes and mobile privacy awareness.
+## Documentation
+
+- [Notification Privacy Guide](docs/notification-privacy.md)
+- [Hidden Messaging Guide](docs/hidden-messaging.md)
